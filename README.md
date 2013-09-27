@@ -1,11 +1,11 @@
 
-
 ftdi-eeprom
 ===========
 
-A tool to read & write EEPROM of ft232 chips, and demonstrate how to use empty space in ftdi chip's EEPROM for personal usage.
+A tool to read & write **EEPROM** of **ft232** chips, and demonstrate how to use empty space in ftdi chip's EEPROM for personal usage.
 
-Copyright (C) 2013 ruisheng <ruishengleen@gmail.com>
+Copyright &copy; 2013 ruisheng <ruishengleen@gmail.com>
+
 This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
