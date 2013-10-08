@@ -92,6 +92,9 @@ compile
 	mkdir build
 	cd build
 	cmake -DCMAKE_TOOLCHAIN_FILE=../Toolchain-Crossbuild32.cmake ..
+	make
+	# copy src/libftdi1.a src/libftdi1.so.2.0.0 to your lib than make symbol link libftdi1.so.2 libftdi1.so 
+	# copy ../src/ftdi.h to your include dir "libftdi1/ftdi.h"
 
 
 my toolchain's bug?
